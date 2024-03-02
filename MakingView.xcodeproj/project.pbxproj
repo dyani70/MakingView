@@ -12,6 +12,7 @@
 		062224C12B8E2A9E00D5DD6F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 062224C02B8E2A9E00D5DD6F /* Assets.xcassets */; };
 		062224C42B8E2A9E00D5DD6F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 062224C32B8E2A9E00D5DD6F /* Preview Assets.xcassets */; };
 		062224CB2B8E2DD300D5DD6F /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062224CA2B8E2DD300D5DD6F /* PostCell.swift */; };
+		062224CD2B93678200D5DD6F /* CustomCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062224CC2B93678200D5DD6F /* CustomCount.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		062224C02B8E2A9E00D5DD6F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		062224C32B8E2A9E00D5DD6F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		062224CA2B8E2DD300D5DD6F /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		062224CC2B93678200D5DD6F /* CustomCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCount.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				062224CA2B8E2DD300D5DD6F /* PostCell.swift */,
 				062224C02B8E2A9E00D5DD6F /* Assets.xcassets */,
 				062224C22B8E2A9E00D5DD6F /* Preview Content */,
+				062224CC2B93678200D5DD6F /* CustomCount.swift */,
 			);
 			path = MakingView;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				062224CD2B93678200D5DD6F /* CustomCount.swift in Sources */,
 				062224BF2B8E2A9500D5DD6F /* ContentView.swift in Sources */,
 				062224BD2B8E2A9500D5DD6F /* MakingViewApp.swift in Sources */,
 				062224CB2B8E2DD300D5DD6F /* PostCell.swift in Sources */,
