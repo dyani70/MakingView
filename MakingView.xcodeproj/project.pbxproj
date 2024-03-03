@@ -14,6 +14,7 @@
 		062224CB2B8E2DD300D5DD6F /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062224CA2B8E2DD300D5DD6F /* PostCell.swift */; };
 		062224CD2B93678200D5DD6F /* CustomCount.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062224CC2B93678200D5DD6F /* CustomCount.swift */; };
 		062224CF2B93759F00D5DD6F /* BindingSample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 062224CE2B93759F00D5DD6F /* BindingSample.swift */; };
+		0669A6E02B94C3E400048B89 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0669A6DF2B94C3E300048B89 /* LoginView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		062224CA2B8E2DD300D5DD6F /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
 		062224CC2B93678200D5DD6F /* CustomCount.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCount.swift; sourceTree = "<group>"; };
 		062224CE2B93759F00D5DD6F /* BindingSample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingSample.swift; sourceTree = "<group>"; };
+		0669A6DF2B94C3E300048B89 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				062224C22B8E2A9E00D5DD6F /* Preview Content */,
 				062224CC2B93678200D5DD6F /* CustomCount.swift */,
 				062224CE2B93759F00D5DD6F /* BindingSample.swift */,
+				0669A6DF2B94C3E300048B89 /* LoginView.swift */,
 			);
 			path = MakingView;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0669A6E02B94C3E400048B89 /* LoginView.swift in Sources */,
 				062224CD2B93678200D5DD6F /* CustomCount.swift in Sources */,
 				062224BF2B8E2A9500D5DD6F /* ContentView.swift in Sources */,
 				062224BD2B8E2A9500D5DD6F /* MakingViewApp.swift in Sources */,
